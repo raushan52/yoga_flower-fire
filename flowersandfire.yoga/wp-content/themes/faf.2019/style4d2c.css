@@ -1,0 +1,24 @@
+/*
+Theme Name: 	Flowers & Fire 2019
+Theme URI: 		http://whyamime.co.uk
+Description: 	Flowers & Fire Yogo Garden - Gili Air
+Version: 		1.0
+Author: 		Joe Pike
+Author URI: 	http://whyamime.co.uk
+Tags: 			
+*/
+
+
+.woocommerce ul.products li.product a img {
+    width: auto;
+
+}
+
+
+.woocommerce ul.products li {
+    list-style: none outside;
+    display: inline-block;
+    vertical-align: top;
+	width: 45%;
+	margin-right: 20px;
+}
